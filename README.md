@@ -2,6 +2,6 @@
 
 ## ağ projeleri
 
--testnet1
--tesnet2
--tesnet3
+- testnet1
+- tesnet2
+- tesnet3
