@@ -5,4 +5,4 @@
 - testnet1
 - tesnet2
 - tesnet3
--[Twitter](https://twitter.com/marici1988)
+-[ARTI İLETİŞİM](http://www.artiiletisim.com.tr/).
