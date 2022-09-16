@@ -5,4 +5,4 @@
 - testnet1
 - tesnet2
 - tesnet3
--[ARTI İLETİŞİM](http://www.artiiletisim.com.tr/).
+-[AKDENBİZ ÜNİVERSİTESİ](http://[www.artiiletisim.com.tr](https://www.akdeniz.edu.tr/)/).
