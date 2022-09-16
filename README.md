@@ -6,4 +6,4 @@
 - tesnet2
 - tesnet3
 - hüseyin4
--[AKDENİZ ÜNİVERSİTESİ](http://[www.akdeniz.edu.tr]
+-[AKDENİZ ÜNİVERSİTESİ] [http://www.akdeniz.edu.tr]
