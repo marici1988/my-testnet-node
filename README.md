@@ -5,5 +5,6 @@
 - testnet1
 - tesnet2
 - tesnet3
-- hüseyin4
--[AKDENİZ ÜNİVERSİTESİ] [http://www.akdeniz.edu.tr]
+- test4
+- artı
+-[AKDENİZ ÜNİVERSİTESİ}[http://www.akdeniz.edu.tr]
